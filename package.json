@@ -16,7 +16,7 @@
   "author": "o.petrakivska@gmail.com",
   "license": "",
   "bugs": {
-    "url": ""
+    "url": "git"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
