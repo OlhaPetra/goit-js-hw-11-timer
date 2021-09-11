@@ -1,0 +1,2 @@
+.timer{display:flex;justify-content:center;background-color:#515151;border-radius:60px;padding:155px 20px;margin-top:50px}.text,.timer{text-align:center;font-weight:700}.text{padding:0;margin:200px 0 0;font-size:70px;color:rgba(105,128,138,.9529411764705882)}.field{display:flex;flex-direction:column;height:170px;width:250px;padding:15px;background-color:rgba(105,128,138,.9529411764705882)}.field:not(:last-child){margin-right:60px}.value{color:#fff;font-size:70px}.label{color:#000;font-size:50px}
+/*# sourceMappingURL=/goit-js-hw-11-timer/styles.3a8129a0.css.map */
