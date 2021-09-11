@@ -7,9 +7,19 @@
   border-radius: 60px;
 
   padding: 155px 20px;
-  margin-top: 200px;
+  margin-top: 50px;
 
   font-weight: 700;
+}
+
+.text {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  margin-top: 200px;
+  font-size: 70px;
+  font-weight: 700;
+  color: #69808af3;
 }
 
 .field {
